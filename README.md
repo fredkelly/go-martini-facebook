@@ -1,7 +1,7 @@
 # go-martini-facebook
 Boilerplate API server for applications authenticating via Facebook.
 
-## Motiviation
+## Motivation
 To create simple boilerplate code for building a golang/martini API using Facebook for authentication.
 
 ## Basic usage
