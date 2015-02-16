@@ -1,5 +1,6 @@
 # go-martini-facebook
 Boilerplate API server for applications authenticating via Facebook.
+<img src="https://github.com/fredkelly/go-martini-facebook/raw/master/diagram.png" width="728" />
 
 ## Motivation
 To create simple boilerplate code for building a golang/martini API using Facebook for authentication.
