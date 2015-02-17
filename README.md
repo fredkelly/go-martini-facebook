@@ -21,8 +21,8 @@ To create simple boilerplate code for building a golang/martini API using Facebo
 
 ## Built with:
 - [go-martini/martini](https://github.com/go-martini/martini)
-- [huandu/facebook](https://github.com/huandu/facebook) 
-- [coopernurse/gorp](https://github.com/coopernurse/gorp)
+- [huandu/facebook](https://github.com/huandu/facebook)
+- [go-gorp/gorp](https://github.com/go-gorp/gorp)
 - other great stuff.
 
 There's also a bunch of other cruft for receiving/rendering JSON - feel free to add/remove as required!
